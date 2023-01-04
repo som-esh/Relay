@@ -1,5 +1,5 @@
 {
-  "name": "hyperspace",
+  "name": "Relay",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "node app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "som-esh <someshs91@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "@dropb/ffprobe": "^2.0.0",
@@ -22,5 +22,6 @@
     "ignore": [
       "/public/*"
     ]
-  }
+  },
+  "repository": "git@github.com:som-esh/Relay.git"
 }
